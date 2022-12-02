@@ -1,0 +1,52 @@
+.p-relative {
+  position: relative;
+}
+.d-fl {
+  display: flex;
+}
+.p-0 {
+  padding: 0;
+}
+.p-10 {
+  padding: 10px;
+}
+.p-20 {
+  padding: 20px;
+}
+.pt-20 {
+  padding-top: 20px;
+}
+.m-20 {
+  margin: 20px;
+}
+.mt-0 {
+  margin-top: 0;
+}
+.bg-eee {
+  background-color: #eee;
+}
+.bg-white {
+  background-color: #fff;
+}
+.br-6 {
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+.txt-c {
+  text-align: center;
+}
+.align-c {
+  align-items: center;
+}
+.fs-14 {
+  font-size: 14px;
+}
+.fw-bold {
+  font-weight: bold;
+}
+.c-black {
+  color: black;
+}
